@@ -3,6 +3,11 @@
 #include <string.h>
 #include <ctype.h>
 
+/*
+Name: Akintayo Lanre Moshood
+Matric NO: 222460
+*/
+
 int getCount(int integer, char *test)
 {
     int counter = 0;

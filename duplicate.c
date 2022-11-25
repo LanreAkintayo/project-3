@@ -4,6 +4,11 @@
 #include <stdbool.h>
 #include <stdlib.h>
 
+/*
+Name: Akintayo Lanre Moshood
+Matric NO: 222460
+*/
+
 
 // Check if a word is a number.
 bool isANumber(char word[])
